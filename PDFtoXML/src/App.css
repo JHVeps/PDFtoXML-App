@@ -1,0 +1,19 @@
+/* .upload-button {
+  width: 60%;
+} */
+
+button {
+  width: 60%;
+}
+input {
+  width: 60%;
+}
+
+.spinner-container {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%);
+}
